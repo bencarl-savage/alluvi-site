@@ -253,6 +253,14 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
   .ob{bottom:20px;right:14px;width:calc(100vw - 28px);max-width:340px}
 }
 @media(max-width:480px){.ft{grid-template-columns:1fr}.hero-bg{font-size:55px}}
+
+/* VIEW DETAILS LINK */
+.view-details-link{
+  display:block;text-align:center;margin-bottom:8px;
+  font-size:0.78rem;font-weight:600;color:var(--muted);
+  text-decoration:none;transition:color 0.2s;letter-spacing:0.03em;
+}
+.view-details-link:hover{color:var(--orange)}
 </style>
 </head>
 <body>
@@ -370,7 +378,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Pre-filled research peptide pen. 4 doses of 10mg. 99.38% purity — Batch AR0763RT4. Full COA. UK stock. R&D only.</div>
           <div class="variants" data-v='[{"l":"1 Box","p":195},{"l":"3 Boxes","p":510},{"l":"10 Boxes","p":1500}]'></div>
           <div class="pcard-price">£<span class="pv">195</span></div>
-          <a href="products/retatrutide-40mg.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/retatrutide-20mg.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/tirzepatide-40mg.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/tirzepatide-20mg.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/glow-ghk-cu.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/nad-plus.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products/bpc-157.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><a href="products.html" style="display:block;text-align:center;margin-bottom:8px;font-size:0.78rem;color:var(--muted);text-decoration:none;transition:color 0.2s" onmouseover="this.style.color='var(--orange)'" onmouseout="this.style.color='var(--muted)'">View Details →</a><button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/retatrutide-40mg.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -382,7 +391,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Lower-dose retatrutide for titration and dose-response research. 4 doses of 5mg. Full COA. UK stock.</div>
           <div class="variants" data-v='[{"l":"Single","p":125},{"l":"x2 Bundle","p":169.99}]'></div>
           <div class="pcard-price">£<span class="pv">125</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/retatrutide-20mg.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -394,7 +404,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Dual GLP-1/GIP agonist for advanced metabolic research. 4 doses of 10mg. Wholesale pricing available.</div>
           <div class="variants" data-v='[{"l":"Single","p":115},{"l":"3 Pack","p":299},{"l":"10 Pack","p":900}]'></div>
           <div class="pcard-price">£<span class="pv">115</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/tirzepatide-40mg.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -406,7 +417,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Lower-dose tirzepatide for titration studies. 4 doses of 5mg. Full batch documentation included.</div>
           <div class="variants" data-v='[{"l":"Single","p":75}]'></div>
           <div class="pcard-price">£<span class="pv">75</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/tirzepatide-20mg.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -418,7 +430,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">BPC-157 10mg / TB-500 10mg / GHK-Cu 50mg blend. Skin, hair and cellular repair research.</div>
           <div class="variants" data-v='[{"l":"Single","p":75},{"l":"3 Pack","p":195}]'></div>
           <div class="pcard-price">£<span class="pv">75</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/glow-ghk-cu.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -430,7 +443,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Focus, brain cellular repair and anti-aging research. High-purity NAD+. Full documentation included.</div>
           <div class="variants" data-v='[{"l":"Single","p":110},{"l":"3 Pack","p":285}]'></div>
           <div class="pcard-price">£<span class="pv">110</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/nad-plus.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -442,7 +456,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Combined recovery and repair peptide blend. 4 doses of 10mg. Sealed, sterile format. Full COA.</div>
           <div class="variants" data-v='[{"l":"Single","p":109.99},{"l":"3 Pack","p":279}]'></div>
           <div class="pcard-price">£<span class="pv">109.99</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products/bpc-157.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
@@ -454,7 +469,8 @@ footer{background:#f0f0f0;padding:64px 32px 32px;border-top:1px solid rgba(0,0,0
           <div class="pcard-desc">Complete research kit with supporting compounds and tools. Protocol-ready. UK dispatch.</div>
           <div class="variants" data-v='[{"l":"Single Box","p":80}]'></div>
           <div class="pcard-price">£<span class="pv">80</span></div>
-          <button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
+          <a href="products.html" class="view-details-link">View Details →</a>
+<button class="add-btn" onclick="addToOrder(this)">Add to Order</button>
         </div>
       </div>
 
