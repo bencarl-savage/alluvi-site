@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://buyalluvi.co.uk/</loc><lastmod>2026-04-05</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://buyalluvi.co.uk/products.html</loc><lastmod>2026-04-05</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://buyalluvi.co.uk/about.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://buyalluvi.co.uk/faq.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://buyalluvi.co.uk/contact.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/index.html</loc><lastmod>2026-04-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/where-to-buy-retatrutide-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/retatrutide-price-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/retatrutide-20mg-vs-40mg-pen.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/how-long-does-retatrutide-take-to-work.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/mounjaro-side-effects-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/best-peptides-for-fat-loss-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/when-will-retatrutide-be-available-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/buying-retatrutide-from-china.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://buyalluvi.co.uk/blog/how-to-use-retatrutide-injection-pen-uk.html</loc><lastmod>2026-04-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- CORE PAGES -->
+  <url><loc>https://buyalluvi.co.uk/</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://buyalluvi.co.uk/about.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/faq.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/contact.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- INDIVIDUAL PRODUCT PAGES -->
+  <url><loc>https://buyalluvi.co.uk/products/retatrutide-40mg.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/retatrutide-20mg.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/tirzepatide-40mg.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/tirzepatide-20mg.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/glow-ghk-cu.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/nad-plus.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/products/bpc-157.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- BLOG PAGES -->
+  <url><loc>https://buyalluvi.co.uk/blog/index.html</loc><lastmod>2026-04-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/where-to-buy-retatrutide-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/retatrutide-price-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/retatrutide-20mg-vs-40mg-pen.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/how-long-does-retatrutide-take-to-work.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/mounjaro-side-effects-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/best-peptides-for-fat-loss-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/when-will-retatrutide-be-available-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/buying-retatrutide-from-china.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://buyalluvi.co.uk/blog/how-to-use-retatrutide-injection-pen-uk.html</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
 </urlset>
